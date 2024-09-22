@@ -51,5 +51,8 @@
     },
     "volta": {
         "node": "20.13.1"
+    },
+    "dependencies": {
+        "coral-clouds": "file:"
     }
 }
